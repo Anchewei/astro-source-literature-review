@@ -1,0 +1,15 @@
+# Secrets & tokens
+scix_token.txt
+.env
+*.env
+
+# Local virtual environments & generated review outputs
+.venv/
+literature_review/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / Editor
+.DS_Store
